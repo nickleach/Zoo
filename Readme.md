@@ -1,4 +1,5 @@
 ## Welcome to the Zoo
+Basic JavaScript Test
 
 #### Objective: Build a Zoo
 -
